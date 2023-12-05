@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Expenses from "./Components/Expenses";
 import Card from "./UI/Card";
 import NewExpense from "./Components/NewExpense/NewExpense";
-import ExpenseDate from "./Components/ExpenseDate";
 import "./App.css"
 
 const ARR = [
